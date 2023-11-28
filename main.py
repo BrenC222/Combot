@@ -1,6 +1,6 @@
 import sys
 import os
-from tools.excel_converter.excel_to_json import ExcelSheetWorker
+from tools.excel_handler.excel_worker import ExcelSheetWorker
 
 def main():
     # Usage
