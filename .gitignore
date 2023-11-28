@@ -9,6 +9,7 @@ pyenv/
 # Emacs IDE backups
 .gitignore~
 .env~
+README.md~
 *.py~
 
 # Local
