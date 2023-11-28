@@ -1,4 +1,5 @@
 import pandas as pd
+import json
 import os
 
 class ExcelSheetWorker:
@@ -10,28 +11,28 @@ class ExcelSheetWorker:
         json_data = self.df.to_dict(orient='records')
         return json_data
 
-    @classmethod
-    def get_sheet_names(cls, excel_file_path):
+    def _get_sheet_names(excel_file_path):
         # Open excel file and get the sheet names (ie Character names)
         excel_file = pd.ExcelFile(excel_file_path)
         sheet_names = [sheet_name for sheet_name in excel_file.sheet_names if not sheet_name.endswith('-meta')]
         excel_file.close()
         return sheet_names
 
-    def save_to_json_file(self, file_path, indent=2):
-        with open(file_path, 'w') as file:
+    def _save_to_json_file(self, file_path, indent=2):
+        with open(file_path, 'w', encoding='utf-8', errors='replace') as file:
             json.dump(self.to_json(), file, indent=indent)
 
-    def excel_convert(file_path):
-        fighter_names = ExcelSheetWorker.get_sheet_names(file_path)
-        fighter_infos = {}
-        for fighter_name in fighter_names:
-            print(fWorking on {fighter_name})
-            fighter_infos[fighter_name] = ExcelSheetWorker(file_path, fighter_name)
-            print(Done...)
+    @classmethod
+    def excel_convert(cls, file_path):
+        sheet_names = cls._get_sheet_names(file_path)
+        sheet_data = {}
+        for sheet_name in sheet_names:
+            print(f"Working on {sheet_name}")
+            sheet_data[sheet_name] = cls(file_path, sheet_name)
+            print("Done...")
             
-        for fighter_name, info in fighter_infos.items():
-            file_path = fdata/frame/{fighter_name}_output.json
-            print(fWriting file {file_path})
-            info.save_to_json_file(file_path)
-            print(Done...)
+        for sheet_name, data in sheet_data.items():
+            file_path = f"data/frame/{sheet_name}_output.json"
+            print(f"Writing file {file_path}")
+            data._save_to_json_file(file_path)
+            print("Done...")
