@@ -23,7 +23,7 @@ class ExcelSheetWorker:
             json.dump(self.to_json(), file, indent=indent)
 
     @classmethod
-    def excel_convert(cls, file_path):
+    def excel_to_json(cls, file_path):
         sheet_names = cls._get_sheet_names(file_path)
         sheet_data = {}
         for sheet_name in sheet_names:
