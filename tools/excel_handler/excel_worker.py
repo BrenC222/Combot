@@ -9,19 +9,23 @@ class ExcelSheetWorker:
 
     def to_json(self):
         json_data = self.df.to_dict(orient='records')
-        return json_data
-
-    def _get_sheet_names(excel_file_path):
-        # Open excel file and get the sheet names (ie Character names)
-        excel_file = pd.ExcelFile(excel_file_path)
-        sheet_names = [sheet_name for sheet_name in excel_file.sheet_names if not sheet_name.endswith('-meta')]
-        excel_file.close()
-        return sheet_names
+        return {self.sheet_name: json_data}
 
     def _save_to_json_file(self, file_path, indent=2):
         with open(file_path, 'w', encoding='utf-8', errors='replace') as file:
             json.dump(self.to_json(), file, indent=indent)
 
+    @staticmethod
+    def _get_sheet_names(excel_file_path):
+        # Open excel file and get the sheet names (ie Character names)
+        try:
+            with pd.ExcelFile(excel_file_path) as excel_file:
+                sheet_names = [sheet_name for sheet_name in excel_file.sheet_names if not sheet_name.endswith('-meta')]
+            return sheet_names
+        except Exception as e:
+            print(f"Error reading excel file: {e}")
+            return []
+        
     @classmethod
     def excel_to_json(cls, file_path):
         sheet_names = cls._get_sheet_names(file_path)
