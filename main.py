@@ -12,6 +12,13 @@ def extract_excel():
     ExcelSheetWorker.excel_to_json(file_path)
     
 
+def create_fighter_cache():
+    # Recursively traverse through data/frame/*.json and retrieve the fighter name and fighter moveset
+
+    # Then instantiate fighter classes in a python dict
+    # fighters = {fighter.name: fighter.moveset}
+    return None
 
 if __name__ == "__main__":
 #    extract_excel()
+    create_fighter_cache()
