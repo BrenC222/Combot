@@ -1,0 +1,634 @@
+{
+  "katarina-meta": [
+    {
+      "#key_moves": "Command",
+      "Unnamed: 1": "Description",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "1, 1",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "df+4",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "df+1",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "4, 4, 4",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "b+3",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "df+3+4",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "d+3",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "f, f+3",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "d+4",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "uf+4, 4",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "#punishers_standing",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "Startup",
+      "Unnamed: 1": "Command",
+      "Unnamed: 2": "Secondary",
+      "Unnamed: 3": "Description",
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "10F",
+      "Unnamed: 1": "1, 1",
+      "Unnamed: 2": "1, 2",
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "12F",
+      "Unnamed: 1": "2, 2",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "13F",
+      "Unnamed: 1": "f, f+2, 4 (hard)",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "14F",
+      "Unnamed: 1": "3, 3, 3, 3, 3",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "15F",
+      "Unnamed: 1": "uf+4, 4",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "19F",
+      "Unnamed: 1": "uf+3",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "#punishers_crouching",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "Startup",
+      "Unnamed: 1": "Command",
+      "Unnamed: 2": "Secondary",
+      "Unnamed: 3": "Description",
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "10F",
+      "Unnamed: 1": "FC d+1",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "11F",
+      "Unnamed: 1": "ws+4",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "13F",
+      "Unnamed: 1": "ws+1, 1",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "14F",
+      "Unnamed: 1": "ws+3, 3, 3, 3, 3",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "15F",
+      "Unnamed: 1": "ws+2",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "19F",
+      "Unnamed: 1": "uf+3",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "#punishers_whiff",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "Command",
+      "Unnamed: 1": "Secondary",
+      "Unnamed: 2": "Description",
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "1, 2",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "uf+4, 4",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "f, f+2, 4",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "#combos_normal",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "Combo",
+      "Unnamed: 1": "Starter",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "d+2,F  HAR 1  df+1  2,2  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "uf+4, 4",
+      "Unnamed: 2": "db+4",
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "d+2,F  HAR 1  4,4,4,F  HAR df+2,3  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "alternative",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "b+1,F  HAR 1  df+1  2,2  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "ws+2",
+      "Unnamed: 2": "uf+3",
+      "Unnamed: 3": "b+2",
+      "Unnamed: 4": "(1, 1), 4",
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "S!  4  d+2,F  HAR 1  b+1,F  HAR 4",
+      "Unnamed: 1": "f, f+2, 4",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "d+2,F  HAR df+2,3  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "CH 4, 4, 4",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "HAR 1  b+1,F  HAR df+2,3  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "CH 4, 4, 4, F",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "d+2,F  HAR 1  df+1  2,2  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "CH df+4",
+      "Unnamed: 2": "CH f, f+3",
+      "Unnamed: 3": "CH b+4",
+      "Unnamed: 4": "CH HAR 2",
+      "Unnamed: 5": "CH (1, 1), 2",
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "b+1,F  HAR 1  df+1  2,2  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "CH d+2",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "d+3,4  b+1,F  HAR df+2,3  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "CH f+3",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "S!  4  d+2,F  HAR 1  b+1,F  HAR 4",
+      "Unnamed: 1": "CH (3), 4",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "ws+4  b+1F  HAR df+2,3  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "WAKE UP 3",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "d+2,F  HAR 1  df+1  2,2  S!  d+2,F  HAR 4",
+      "Unnamed: 1": "LOW PARRY",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "#combos_small",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "Combo",
+      "Unnamed: 1": "Starter",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "ub+4",
+      "Unnamed: 1": "f, f+3",
+      "Unnamed: 2": "(1, 1), 3",
+      "Unnamed: 3": "HAR 3",
+      "Unnamed: 4": "f+1+2",
+      "Unnamed: 5": "(b+4), 1+2",
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "ub+4",
+      "Unnamed: 1": "CH d+1",
+      "Unnamed: 2": "CH (1, 1), 1",
+      "Unnamed: 3": "CH df+3+4",
+      "Unnamed: 4": "CH (d+3), 4",
+      "Unnamed: 5": "CH HAR df+3",
+      "Unnamed: 6": "CH (3, 3, 3, 3)3"
+    },
+    {
+      "#key_moves": " (dash) ub+4",
+      "Unnamed: 1": "CH HAR 1",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "#combos_ender",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "Type",
+      "Unnamed: 1": "Combo",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "WALL CARRY",
+      "Unnamed: 1": "d+2,F  HAR 1",
+      "Unnamed: 2": "b+1,1",
+      "Unnamed: 3": "uf+3",
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "WALL BREAK",
+      "Unnamed: 1": "d+2,F  HAR 4",
+      "Unnamed: 2": "f+3+4",
+      "Unnamed: 3": "f,f+4",
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "FLOOR BREAK",
+      "Unnamed: 1": "d+2,F  HAR 2",
+      "Unnamed: 2": "b+4,3+4",
+      "Unnamed: 3": "d+1",
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "DAMAGE",
+      "Unnamed: 1": "RAGE ART",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "#combos_wall",
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "Type",
+      "Unnamed: 1": "SubType",
+      "Unnamed: 2": "Combo",
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": "GENERAL",
+      "Unnamed: 1": "everyone",
+      "Unnamed: 2": "1  df+1  3,3,3,3,3",
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": NaN,
+      "Unnamed: 2": "df+1,1,F  HAR 4",
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": "low wall splat",
+      "Unnamed: 2": "f,f+3  ub+4",
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    },
+    {
+      "#key_moves": NaN,
+      "Unnamed: 1": "during rage",
+      "Unnamed: 2": "df+1,1,F  HAR 1+2",
+      "Unnamed: 3": NaN,
+      "Unnamed: 4": NaN,
+      "Unnamed: 5": NaN,
+      "Unnamed: 6": NaN
+    }
+  ]
+}
