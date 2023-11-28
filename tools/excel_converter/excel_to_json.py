@@ -1,5 +1,4 @@
 import pandas as pd
-import json
 import os
 
 class ExcelSheetWorker:
@@ -22,3 +21,17 @@ class ExcelSheetWorker:
     def save_to_json_file(self, file_path, indent=2):
         with open(file_path, 'w') as file:
             json.dump(self.to_json(), file, indent=indent)
+
+    def excel_convert(file_path):
+        fighter_names = ExcelSheetWorker.get_sheet_names(file_path)
+        fighter_infos = {}
+        for fighter_name in fighter_names:
+            print(fWorking on {fighter_name})
+            fighter_infos[fighter_name] = ExcelSheetWorker(file_path, fighter_name)
+            print(Done...)
+            
+        for fighter_name, info in fighter_infos.items():
+            file_path = fdata/frame/{fighter_name}_output.json
+            print(fWriting file {file_path})
+            info.save_to_json_file(file_path)
+            print(Done...)
