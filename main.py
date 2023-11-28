@@ -2,7 +2,7 @@ import sys
 import os
 from tools.excel_handler.excel_worker import ExcelSheetWorker
 
-def main():
+def extract_excel():
     # Usage
     if len(sys.argv) != 2:
         print("Usage python main.py <file>")
@@ -14,4 +14,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+#    extract_excel()
