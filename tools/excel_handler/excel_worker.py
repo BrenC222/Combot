@@ -17,7 +17,6 @@ class ExcelSheetWorker:
 
     @staticmethod
     def _get_sheet_names(excel_file_path):
-        # Open excel file and get the sheet names (ie Character names)
         try:
             with pd.ExcelFile(excel_file_path) as excel_file:
                 sheet_names = [sheet_name for sheet_name in excel_file.sheet_names if not sheet_name.endswith('-meta')]
