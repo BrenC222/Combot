@@ -1,0 +1,15 @@
+# Environment
+.env
+myenv/
+venv/
+environ/
+environment/
+pyenv/
+
+# Emacs IDE backups
+.gitignore~
+.env~
+*.py~
+
+# Local
+__pycache__
